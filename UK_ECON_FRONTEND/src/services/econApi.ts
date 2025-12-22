@@ -1,4 +1,4 @@
-import type { EconMetricResponse } from "./types";
+import type { EconMetricResponse } from "../types/apiTypes";
 
 const BASE_URL = "http://localhost:8000/api";
 
